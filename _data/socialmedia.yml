@@ -1,0 +1,34 @@
+- name: Twitter
+  url: https://twitter.com/MobileSuitGuy
+  class: icon-twitter
+  title: "MobileSuitGuy @ Twitter"
+
+- name: Facebook
+  url: https://facebook.com/MobileSuitGuy 
+  class: icon-facebook
+  title: "MobileSuitGuy @ Facebook"
+
+- name: Instagram
+  url: https://instagram.com/MobileSuitGuy
+  class: icon-instagram
+  title: "MobileSuitGuy @ Instagram"
+
+- name: Tumblr
+  url: https://MobileSuitGuy.tumblr.com
+  class: icon-tumblr
+  title: "MobileSuitGuy @ Tumblr"
+
+- name: World Cosplay
+  url: https://worldcosplay.net/member/MobileSuitGuy
+  class: icon-globe
+  title: "MobileSuitGuy @ World Cosplay"
+
+- name: American Cosplay Paradise
+  url: http://www.acparadise.com/loves/MobileSuitGuy
+  class: icon-acp
+  title: "MobileSuitGuy @ ACParadise"
+
+- name: Twitch
+  url: https://twitch.tv/MobileSuitGuy
+  class: icon-twitch
+  title: "MobileSuitGuy @ Twitch"

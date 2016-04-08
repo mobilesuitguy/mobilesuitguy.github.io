@@ -1,0 +1,58 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Home 
+  url: "/"
+  side: left
+
+- title: "about"
+  url: "/about/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Announcements"
+    url: "/announcements/"
+  - title: "Conventions"
+    url: "/conventions/"
+  - title: "Cosplay"
+    url: "/cosplay/"
+  - title: "Anime"
+    url: "/anime/"
+  - title: "Video Games"
+    url: "/videogames/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Social Media"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "Twitter"
+    url: "https://twitter.com/MobileSuitGuy"
+  - title: "Facebook"
+    url: "https://facebook.com/MobileSuitGuy"
+  - title: "Instagram"
+    url: "https://instagram.com/MobileSuitGuy"
+  - title: "Tumblr"
+    url: "https://MobileSuitGuy.tumblr.com"
+  - title: "World Cosplay"
+    url: "https://worldcosplay.net/member/MobileSuitGuy"
+  - title: "ACParadise"
+    url: "http://www.acparadise.com/loves/mobilesuitguy"
+  - title: "Twitch"
+    url: "https://twitch.tv/MobileSuitGuy"
+
+#
+#   Navigation to the right › side: right
+#
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "https://goo.gl/forms/egSCBwoRzD"
+  side: right
