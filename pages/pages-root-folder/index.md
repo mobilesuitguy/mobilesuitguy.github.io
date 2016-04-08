@@ -25,7 +25,7 @@ widget3:
   title: "Contact Me"
   url: 'https://goo.gl/forms/egSCBwoRzD'
   image: '/images/ContactPic.jpg'
-  text: 'Contact me via Google Forms or by my various social media accounts for inquiries, requests, and anything else.'
+  text: 'You can contact me via Google Forms, MobileSuitGuy@Gmail.com, or by my various social media accounts for inquiries, requests, and anything else.'
   alt: 'Photo by Crowkidd @ ACParadise'
 permalink: /index.html
 ---
