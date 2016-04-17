@@ -67,7 +67,7 @@ image:
 
 <p>After my shift ended, I ate at the Cheesecake Factory with my hotelmates (Yum!). The wait wasn't particulary long, surprisingly enough and we were in and out within the hour!</p> 
 
-<p>After having myself a burger and fries, I headed back to the convention center as Shirou from Fate/Stay Night: Unlimited Blade Works to do a photoshoot with <a href="https://www.facebook.com/darkenedxstar/">Mei</a> as Rin and <a href=https://www.facebook.com/ricotamphotography>Rico Tam Photography</a>! Mei and I met during the first year of SAO at Sakura-Con as Asuna and Kirito, and this was probably the first time that we really got to hang out after meeting three years ago haha. Rico and Celia of Rico Tam Photography were really cool to work with! Super understanding and they definitely have the skills!</p>
+<p>After having myself a burger and fries, I headed back to the convention center as Shirou from Fate/Stay Night: Unlimited Blade Works to do a photoshoot with <a href="https://www.facebook.com/darkenedxstar/">Mei</a> as Rin and <a href="https://www.facebook.com/ricotamphotography">Rico Tam Photography</a>! Mei and I met during the first year of SAO at Sakura-Con as Asuna and Kirito, and this was probably the first time that we really got to hang out after meeting three years ago haha. Rico and Celia of Rico Tam Photography were really cool to work with! Super understanding and they definitely have the skills!</p>
 
 <img src="/images/SC2016D1-06.jpg" alt="Sakura-Con 2016 Fate Photoshoot"><br/>
 <span>Picture by <a href="https://www.facebook.com/ricotamphotography/">Rico Tam Photography</a></span>
