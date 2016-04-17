@@ -23,6 +23,7 @@
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
+.icon-MSG:before,
 .icon-acp:before,
 .icon-archive:before,
 .icon-browser:before,
@@ -93,6 +94,7 @@
   font-smoothing: antialiased;
 }
 
+.icon-MSG:before { content: "\f138"; }
 .icon-acp:before { content: "\f136"; }
 .icon-archive:before { content: "\f100"; }
 .icon-browser:before { content: "\f101"; }

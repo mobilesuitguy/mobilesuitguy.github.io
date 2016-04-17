@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "605fe103c4d9fb4c4ee61a70cce982d836ae65c2996feff26d1a6f4bf9261ce5",
-    "current": "605fe103c4d9fb4c4ee61a70cce982d836ae65c2996feff26d1a6f4bf9261ce5"
+    "previous": "4c91dc7f480fe233a6dab3a863729d903cd88fd908e9111627eb4568ea334f7d",
+    "current": "4c91dc7f480fe233a6dab3a863729d903cd88fd908e9111627eb4568ea334f7d"
   },
   "fonts": [
     "./iconfont.ttf",
@@ -10,6 +10,10 @@
     "./iconfont.eot"
   ],
   "glyphs": {
+    "MSG": {
+      "codepoint": 61752,
+      "source": "svg-files-for-custom-font/MSG.svg"
+    },
     "acp": {
       "codepoint": 61750,
       "source": "svg-files-for-custom-font/acp.svg"
