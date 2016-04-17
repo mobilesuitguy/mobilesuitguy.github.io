@@ -26,7 +26,7 @@ image:
   url: "http://sakuracon.org"
 ---
 
-<p>Day One of Sakura-Con! That Friday would mark the 6th year I've gone to Sakura-Con so far, and the 3rd year I've cosplayed from Sword Art Online for Aniplex & American Cosplay Paradise at Sakura-Con.</p>
+<p>Day One of Sakura-Con! That Friday would mark the 6th year I've gone to Sakura-Con so far, and the 3rd year I've cosplayed for Aniplex & American Cosplay Paradise at Sakura-Con.</p>
 
 <img src="/images/SC2016D1-01.jpg" alt="Sakura-Con 2016 Imari, an unsuspecting Albert, and me">
 
