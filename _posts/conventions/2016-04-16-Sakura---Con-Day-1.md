@@ -63,7 +63,7 @@ image:
 
 <p>We didn't have much going on at the booth in terms of booth events while I was on duty on Friday morning, but everyone was pretty chill to hang around with!</p> 
 
-<p>I noticed that the Crunchyroll booth wasn't set up that day or the day before. I was looking forward to seeing some old faces and some Kiznaiver merchandise! <a href=https://twitter.com/milesexpress999>Miles</a> even came around a few times with a (non-alcoholic) drink in his hand, staring over his booth for a few seconds before disappearing into the exhibitor hall crowds ; _ ;7</p>
+<p>I noticed that the Crunchyroll booth wasn't set up that day or the day before. I was looking forward to seeing some old faces and some Kiznaiver merchandise! <a href=https://twitter.com/milesexpress999">Miles</a> even came around a few times with a (non-alcoholic) drink in his hand, staring over his booth for a few seconds before disappearing into the exhibitor hall crowds ; _ ;7</p>
 
 <p>After my shift ended, I ate at the Cheesecake Factory with my hotelmates (Yum!). The wait wasn't particulary long, surprisingly enough and we were in and out within the hour!</p> 
 
