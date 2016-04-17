@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "b64b0c76d5ba940ee7654937afdd50417d325203d8500a2d4f9da819acbb430d",
-    "current": "b64b0c76d5ba940ee7654937afdd50417d325203d8500a2d4f9da819acbb430d"
+    "previous": "baca6a301df9d2887817b335a68673ac2bca55e0a3af94557f9191da5bdc2ecb",
+    "current": "baca6a301df9d2887817b335a68673ac2bca55e0a3af94557f9191da5bdc2ecb"
   },
   "fonts": [
     "./iconfont.ttf",
@@ -251,8 +251,8 @@
     "font_name": "iconfont",
     "force": false,
     "input": {
-      "templates": "svg-files-for-custom-font",
-      "vectors": "svg-files-for-custom-font"
+      "templates": "svg-files-for-custom-font/",
+      "vectors": "svg-files-for-custom-font/"
     },
     "no_hash": true,
     "output": {
