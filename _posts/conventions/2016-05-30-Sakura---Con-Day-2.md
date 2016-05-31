@@ -26,24 +26,22 @@ image:
   url: "http://sakuracon.org"
 ---
 
-<p>Day Two of Sakura-Con! Time for some GGO Kirito!</p>
+<p>Day Two of Sakura-Con! Today was SAO day for me, with the Sword Art Online Ordinal Scale movie hype panel and my shift at the Aniplex Booth, so I got all strapped up in my Gun Gale Online Kirito cosplay and headed over to the convention!</p>
 
 <img src="/images/SC2016D2-01.jpg" alt="Lalakoai and Me!"><br/>
 <span>Picture by <a href="https://twitter.com/aikowiththeflow">Lalakoai</a></span>
 
-<p>Today was SAO day for me, with the Sword Art Online Ordinal Scale movie hype panel and my shift at the Aniplex Booth, so I got all strapped up in my Gun Gale Online Kirito cosplay and headed over to the convention!</p>
-
-<img src="/images/SC2016D2-02.jpg" alt="SAO Movie Hype Room"><br/>
-<span>Picture by <a href="http://www.acparadise.com/loves/everon">Everon</a></span>
-
 <p>I didn't really have much planned for the early morning on that day so for the most part I walked around the exhibitor's hall, introducing myself to some fellow booth staff, some of whom I've known over Twitter, like <a href="https://twitter.com/milesexpress999">Miles</a>, but have never met in person. Speaking of Miles, I recall that on Day 2 of Sakura-Con that they were able to get their booth at Crunchyroll set up, which I can imagine was a huge relief.</p>
 
-<img src="/images/SC2016D2-05.jpg" alt="Our Official SAO Cosplay Team for Sakura-Con 2016"><br/>
+<img src="/images/SC2016D2-12.jpg" alt="SAO Autograph Signing"><br/>
 <span>Picture by <a href="http://www.acparadise.com/loves/everon">Everon</a></span>
 
 <p>I ended up going over to the autograph area to help the other cosplayers with the Sword Art Online signing. The line for it was LONG. Like SUPER long.</p>
 
-<img src="/images/SC2016D2-12.jpg" alt="SAO Autograph Signing"><br/>
+<img src="/images/SC2016D2-02.jpg" alt="SAO Movie Hype Room"><br/>
+<span>Picture by <a href="http://www.acparadise.com/loves/everon">Everon</a></span>
+
+<img src="/images/SC2016D2-05.jpg" alt="Our Official SAO Cosplay Team for Sakura-Con 2016"><br/>
 <span>Picture by <a href="http://www.acparadise.com/loves/everon">Everon</a></span>
 
 <p>I headed up to the movie panel room early to get set up for the movie panel. Among our SAO cosplay team for the panel, including myself, were <a href="https://twitter.com/agsmacosplay">AGSMA Cosplay</a>, <a href="https://twitter.com/marinanc1">Ryu</a>, <a href="https://twitter.com/kimixkimi">Kimi</a>, <a href="https://twitter.com/ABlackSwordsman">AndrewBlackSwordsman</a>, <a href="https://twitter.com/CeltyFarron">CeltyFarron</a>, and <a href="https://twitter.com/atashi000">Atashi</a>. If a Sakura-Con attendee went to the Ordinal Scale SAO movie preview panel, they would have received a really cool, limited print mini-poster with art from the Ordinal Scale movie itself.</p>
