@@ -52,7 +52,7 @@ image:
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script><br/>
 
 <img src="/images/SC2016D2-07.jpg" alt="Panel crowd for SAO movie panel"><br/>
-<span>Picture by <a href="http://www.acparadise.com/loves/everon">Everon</a></span>
+<span>Picture by <a href="https://twitter.com/aniplexUSA">Aniplex USA</a></span>
 
 <p>The panel itself was a blast. Our cosplay team handed out posters to every attendee who walked through the door and with it, we included a raffle ticket for prizes to be drawn near the end of the panel. When the panel got closer to starting, we readied ourselves to escort the guests to the stage.</p>
 
@@ -63,17 +63,17 @@ image:
 
 <p>After the escorting was done, our cosplay team returned to their seats and sat with the rest of the fans to enjoy the panel. Character designs and concept art were revealed, some details of the "Augma" augmented reality device was talked about, there was a Q & A portion during the panel, with Abec drawing the whole time of course, and a video with Bryce Papenbrook and Cherami Leigh joking about what they think Ordinal Scale could be about. At the end of the panel, there were some really sweet looking prizes that were raffled out to the general attendees. Many of which were signed by the guests themselves!</p>
 
-<img src="/images/SC2016D2-08.jpg" alt="Panel crowd for SAO movie panel"><br/>
-<span>Picture by <a href="http://www.acparadise.com/loves/everon">Everon</a></span>
+<img src="/images/SC2016D2-08.jpg" alt="Raffle Winner"><br/>
+<span>Picture by <a href="https://twitter.com/aniplexUSA">Aniplex USA</a></span>
 
-<img src="/images/SC2016D2-09.jpg" alt="Panel crowd for SAO movie panel"><br/>
-<span>Picture by <a href="http://www.acparadise.com/loves/everon">Everon</a></span>
+<img src="/images/SC2016D2-09.jpg" alt="Raffle Winner"><br/>
+<span>Picture by <a href="https://twitter.com/aniplexUSA">Aniplex USA</a></span>
 
-<img src="/images/SC2016D2-10.jpg" alt="Panel crowd for SAO movie panel"><br/>
-<span>Picture by <a href="http://www.acparadise.com/loves/everon">Everon</a></span>
+<img src="/images/SC2016D2-10.jpg" alt="Raffle Winner"><br/>
+<span>Picture by <a href="https://twitter.com/aniplexUSA">Aniplex USA</a></span>
 
-<img src="/images/SC2016D2-11.jpg" alt="Panel crowd for SAO movie panel"><br/>
-<span>Picture by <a href="http://www.acparadise.com/loves/everon">Everon</a></span>
+<img src="/images/SC2016D2-11.jpg" alt="Raffle Winner"><br/>
+<span>Picture by <a href="https://twitter.com/aniplexUSA">Aniplex USA</a></span>
 
 <p>After the panel, I went back to the Aniplex booth for my shift there and that lasted until it was time for the exhibitor's hall to close. When the exhibitor hall closed, I went back to my hotel room where I got changed into some non-cosplay attire. I kind of wanted to go back to the convention to check out the BAND-MAID live performance, but it was a little too late at that point. Instead, I went out to hang with some friends at GameWorks and at Sakura-Con's 'Not-Rave,' sleeping promptly afterward to get ready for the last day of Sakura-Con 2016.</p>
 
