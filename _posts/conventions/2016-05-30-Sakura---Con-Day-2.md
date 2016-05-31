@@ -77,7 +77,7 @@ image:
 
 <img src="/images/SC2016D2-20.png" alt="Ordinal Scale Art Design Klein"><br/>
 
-<img src="/images/SC2016D2-21.jpg" alt="Ordinal Scale Art Design"><br/>
+<img src="/images/SC2016D2-21.jpg" alt="Ordinal Scale Art"><br/><br/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ViauV6pxwZw" frameborder="0" allowfullscreen></iframe>
 
