@@ -31,7 +31,7 @@ image:
 <img src="/images/SC2016D2-01.jpg" alt="Lalakoai and Me!"><br/>
 <span>Picture by <a href="https://twitter.com/aikowiththeflow">Lalakoai</a></span>
 
-<p>I didn't really have much planned for the early morning on that day so for the most part I walked around the exhibitor's hall, introducing myself to some fellow booth staff, some of whom I've known over Twitter, like <a href="https://twitter.com/milesexpress999">Miles</a>, but have never met in person. Speaking of Miles, I recall that on Day 2 of Sakura-Con that they were able to get their booth at Crunchyroll set up, which I can imagine was a huge relief.</p>
+<p>I didn't really have much planned for the early morning on that day so for the most part I walked around the exhibitor's hall, introducing myself to some fellow booth staff, some of whom I've known over Twitter, like <a href="https://twitter.com/milesexpress999">Miles</a>, but have never met in person. Speaking of Miles, I recall that on Day 2 of Sakura-Con that they were able to get their booth at Crunchyroll set up, which I can imagine was a huge relief for them.</p>
 
 <img src="/images/SC2016D2-12.jpg" alt="SAO Autograph Signing"><br/>
 <span>Picture by <a href="http://www.acparadise.com/loves/everon">Everon</a></span>
