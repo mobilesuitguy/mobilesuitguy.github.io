@@ -21,7 +21,7 @@ header: no
 
 <h1>BIO</h1>
 
-<p>Name: Mike Lee</p>
+<p>Name: Mike</p>
 
 <p>Birthday: December 19th (12月19日)</p>
 
