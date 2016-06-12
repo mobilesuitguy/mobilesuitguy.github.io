@@ -25,7 +25,7 @@ widget3:
   title: "Contact Me"
   url: 'https://facebook.com/mobilesuitguy'
   image: '/images/ContactPic.jpg'
-  text: 'Contact me via <a href="https://facebook.com/mobilesuitguy">Facebook</a>, email at <a href="mailto:blog@mobilesuitguy.com">blog@mobilesuitguy.com</a>, or my other social media <a href="https://twitter.com/mobilesuitguy">@mobilesuitguy</a> for inquiries, requests, etc.'
+  text: 'Contact me via <a href="https://facebook.com/mobilesuitguy">Facebook</a>, email at <a href="mailto:mobilesuitguy@gmail.com">mobilesuitguy@gmail.com</a>, or my other social media <a href="https://twitter.com/mobilesuitguy">@mobilesuitguy</a> for inquiries, requests, etc.'
   alt: 'Photo by Crowkidd @ ACParadise'
 permalink: /index.html
 ---
