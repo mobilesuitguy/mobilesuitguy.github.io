@@ -31,7 +31,7 @@ image:
 <img src="/images/SC2016D2-01.jpg" alt="Lalakoai and Me!"><br/>
 <span>Picture by <a href="https://twitter.com/aikowiththeflow">Lalakoai</a></span>
 
-<p>I didn't really have much planned for the early morning on that day so for the most part I walked around the exhibitor's hall and chatted with some fellow booths.</p>
+<p>Didn't really have much planned for the early morning on that day so for the most part I walked around the exhibitor's hall and chatted with some fellow booths.</p>
 
 <img src="/images/SC2016D2-12.jpg" alt="SAO Autograph Signing"><br/>
 <span>Picture by <a href="http://www.acparadise.com/loves/everon">Everon</a></span>
@@ -41,7 +41,7 @@ image:
 <img src="/images/SC2016D2-02.jpg" alt="SAO Movie Hype Room"><br/>
 <span>Picture by <a href="http://www.acparadise.com/loves/everon">Everon</a></span>
 
-<p>After the autograph session, I headed to the movie panel room early to get set up for the movie panel. Among our SAO cosplay team for the panel, including myself, were <a href="https://twitter.com/agsmacosplay">AGSMA Cosplay</a>, <a href="https://twitter.com/marinanc1">Ryu</a>, <a href="https://twitter.com/kimixkimi">Kimi</a>, <a href="https://twitter.com/ABlackSwordsman">AndrewBlackSwordsman</a>, <a href="https://twitter.com/CeltyFarron">CeltyFarron</a>, and <a href="https://twitter.com/atashi000">Atashi</a>.</p>
+<p>After the autograph session, I headed to the movie panel room early to get set up for the movie panel. Among our SAO cosplay team for the panel, including myself, were <a href="http://www.acparadise.com/loves/waynekaa">AGSMA Cosplay</a>, <a href="http://www.acparadise.com/acp/display.php?a=91794">Ryu</a>, <a href="http://www.acparadise.com/loves/kimixkimi">Kimi</a>, <a href="http://www.acparadise.com/ace/display.php?a=90436">AndrewBlackSwordsman</a>, <a href="http://www.acparadise.com/acp/display.php?a=91703">CeltyFarron</a>, and <a href="http://www.acparadise.com/loves/atashi">Atashi</a>.</p>
 
 <img src="/images/SC2016D2-05.jpg" alt="Our Official SAO Cosplay Team for Sakura-Con 2016"><br/>
 <span>Picture by <a href="http://www.acparadise.com/loves/everon">Everon</a></span>

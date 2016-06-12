@@ -23,9 +23,9 @@ widget2:
   alt: 'Photo by Everon @ ACParadise'
 widget3:
   title: "Contact Me"
-  url: 'https://goo.gl/forms/egSCBwoRzD'
+  url: 'https://facebook.com/mobilesuitguy'
   image: '/images/ContactPic.jpg'
-  text: 'You can contact me via Google Forms, MobileSuitGuy@Gmail.com, or by my various social media accounts for inquiries, requests, and anything else.'
+  text: 'You can contact me <a href="https://facebook.com/mobilesuitguy">Facebook</a> or via email at <a href="mailto:blog@mobilesuitguy.com">blog@mobilesuitguy.com</a>, or by my various social media accounts @mobilesuitguy for inquiries, requests, and anything else.'
   alt: 'Photo by Crowkidd @ ACParadise'
 permalink: /index.html
 ---
