@@ -102,4 +102,4 @@ image:
 <img src="/images/SC2016D2-04.jpg" alt="Day 2 Sakura-Con 2016 End"><br/>
 <span>Picture by Quentin</span>
 
-<p>Instead, I went out to hang with some friends at GameWorks and at Sakura-Con's 'Not-Rave,' sleeping promptly afterward to get ready for the last day of Sakura-Con 2016.</p>
+<p>After accompanying my girlfriend <a href="https://www.facebook.com/Vxelwraith">Vexrai</a> back home, I went out to hang with some friends at GameWorks and at Sakura-Con's 'Not-Rave,' sleeping promptly afterward to get ready for the last day of Sakura-Con 2016.</p>

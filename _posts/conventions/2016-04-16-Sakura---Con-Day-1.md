@@ -19,7 +19,7 @@ tags:
 # Styling
 #
 image:
-  header: no 
+  header: no
   thumb: "SC2016D1Thumb.png"
   homepage: "Home1.png"
   caption: "Sakura-Con 2016 Day 1"
@@ -63,11 +63,11 @@ image:
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BDYuYw0HATH/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">What&#39;s better than Your lie in April cosplay photo? A #yliadub video! Come view the full video at facebook.com/acosplayparadise! #acparadise #acp #cosplay #cosplayers #anime #manga #sakuracon #aniplex #animeboston #yliadub #yourlieinapril</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A video posted by Acy Paradise (@acosplayparadise) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-03-25T18:37:32+00:00">Mar 25, 2016 at 11:37am PDT</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
-<p>We didn't have much going on at the booth in terms of booth events while I was on duty on Friday morning, but everyone was pretty chill to hang around with!</p> 
+<p>We didn't have much going on at the booth in terms of booth events while I was on duty on Friday morning, but everyone was pretty chill to hang around with!</p>
 
 <p>I noticed that the Crunchyroll booth wasn't set up that day or the day before. I was looking forward to seeing some old faces and some Kiznaiver merchandise! <a href="https://twitter.com/milesexpress999">Miles</a> even came around a few times with a (non-alcoholic) drink in his hand, staring over his booth for a few seconds before disappearing into the exhibitor hall crowds ; _ ;7</p>
 
-<p>After my shift ended, I ate at the Cheesecake Factory with my hotelmates (Yum!). The wait wasn't particulary long, surprisingly enough and we were in and out within the hour!</p> 
+<p>After my shift ended, I ate at the Cheesecake Factory with my hotelmates and girlfriend, <a href="https://www.facebook.com/Vxelwraith">Vexrai</a>. The wait wasn't particularly long, surprisingly enough and we were in and out within the hour!</p> 
 
 <p>After having myself a burger and fries, I headed back to the convention center as Shirou from Fate/Stay Night: Unlimited Blade Works to do a photoshoot with <a href="https://www.facebook.com/darkenedxstar/">Mei</a> as Rin and <a href="https://www.facebook.com/ricotamphotography">Rico Tam Photography</a>! Mei and I met during the first year of SAO at Sakura-Con as Asuna and Kirito, and this was probably the first time that we really got to hang out after meeting three years ago haha. Rico and Celia of Rico Tam Photography were really cool to work with! Super understanding and they definitely have the skills!</p>
 
@@ -86,4 +86,4 @@ image:
 <img src="/images/SC2016D1-10.jpg" alt="Sakura-Con 2016 Fate Photoshoot"><br/>
 <span>Picture by <a href="https://www.facebook.com/ricotamphotography/">Rico Tam Photography</a></span>
 
-<p>After the photoshoot, my hotelmates and I went back to the hotel and got changed into Umaru to walk around the convention center in. Unfortunately we didn't really find anything to do or anything we wanted to wait for so we ended up heading back to catch an early night's sleep. There's a few shirtless umaru pictures floating around but to keep my blog a little tidy (not TIDDY, T-I-D-Y), I'm going to avoid posting that...</p>
+<p>After the photoshoot, my hotelmates, girlfriend, and I went back to the hotel and got changed into Umaru to walk around the convention center in. Unfortunately we didn't really find anything to do or anything we wanted to wait for so we ended up heading back to catch an early night's sleep. There's a few shirtless umaru pictures floating around but to keep my blog a little tidy (not TIDDY, T-I-D-Y), I'm going to avoid posting that...</p>
