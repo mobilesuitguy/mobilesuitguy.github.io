@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 header: no
-subheadline: "Sakura-Con 2016 Midflight"
+subheadline: "Sakura-Con 2016 Halfway Point"
 title: "Sakura-Con 2016 Day 2"
 teaser: "Sakura-Con 2016 Day 2 Blog Post"
 categories:
