@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 header: no
-subheadline: "Sakura-Con 2016 Underway"
+subheadline: "Sakura-Con 2016 Start!"
 title: "Sakura-Con 2016 Day 1"
 teaser: "Sakura-Con 2016 Day 1 Blog Post"
 categories:
@@ -67,7 +67,7 @@ image:
 
 <p>I noticed that the Crunchyroll booth wasn't set up that day or the day before. I was looking forward to seeing some old faces and some Kiznaiver merchandise! <a href="https://twitter.com/milesexpress999">Miles</a> even came around a few times with a (non-alcoholic) drink in his hand, staring over his booth for a few seconds before disappearing into the exhibitor hall crowds ; _ ;7</p>
 
-<p>After my shift ended, I ate at the Cheesecake Factory with my hotelmates and girlfriend, <a href="https://www.facebook.com/Vxelwraith">Vexrai</a>. The wait wasn't particularly long, surprisingly enough and we were in and out within the hour!</p> 
+<p>After my shift ended, I ate at the Cheesecake Factory with my hotelmates and girlfriend, <a href="https://www.facebook.com/Vxelwraith">Vexrai</a>. The wait wasn't particularly long, surprisingly enough and we were in and out within the hour!</p>
 
 <p>After having myself a burger and fries, I headed back to the convention center as Shirou from Fate/Stay Night: Unlimited Blade Works to do a photoshoot with <a href="https://www.facebook.com/darkenedxstar/">Mei</a> as Rin and <a href="https://www.facebook.com/ricotamphotography">Rico Tam Photography</a>! Mei and I met during the first year of SAO at Sakura-Con as Asuna and Kirito, and this was probably the first time that we really got to hang out after meeting three years ago haha. Rico and Celia of Rico Tam Photography were really cool to work with! Super understanding and they definitely have the skills!</p>
 
