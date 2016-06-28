@@ -39,18 +39,20 @@ image:
 
 <img src="/images/AX2016Post.jpg" alt="Anime Expo 2016 Detailed Plans">
 
+<p>I'll be in mostly GGO Kirito for each event, so make sure to say hi and ask for a cosplay card!</p>
+
 <img src="/images/AX2016Poster.jpg" alt="Anime Expo 2016 Aniplex Posters">
 
-<p>I'll be in mostly GGO Kirito for each event, so make sure to say hi and ask for a cosplay card!</p>
+<p>With every purchase at the Aniplex booth, you'll receive one of 5 exclusive posters!</p>
 
 <img src="/images/AX2016Election.jpg" alt="AniplexSAO Button Election">
 
 <img src="/images/AX2016ButtonSet.png" alt="Aniplex SAO Button Set">
 
-<p>Also, stop by the Aniplex booth to vote for your favorite character and receive a button!</p>
+<p>Also, stop by the Aniplex booth to vote for your favorite character in the Anime Expo 2016 Sword Art Online Election and receive a character styled button!</p>
 
 <img src="/images/AX2016Calendar.png" alt="SAO Calendar from the Aniplex Booth">
 
 <p>While you're at the Aniplex booth, go ahead and pick up a free Anime Expo 2016 exclusive Aniplex Calendar on us!</p>
 
-<p>P.S. I'll be at the Aniplex booth for the latter of the four days at select times and the Bandai Namco booth for the first two days, but you can grab the exclusive Sword Art Online calendar from the booth at any time. Get them early because they might not be there later in the day~</p>
+<p>P.S. I'll be at the Aniplex booth for the latter two of the four days at select times and the Bandai Namco booth for the first two days, but you can grab the exclusive Sword Art Online calendar from the booth at any time. Get them early because they might not be there later in the day~</p>
